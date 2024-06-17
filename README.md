@@ -1,7 +1,7 @@
 Hi 👋 My name is Soufiane
 =========================
 
-Computer & Network Engineering Student 👨‍💻
+Software & Network Engineering Student 👨‍💻
 -----------------------------------------
 
 I'm a third-year computer and network engineering student, passionate about technology and software development. My skills span Python, Java, C/C++, and web development.
