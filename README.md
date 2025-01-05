@@ -7,25 +7,45 @@ Software Engineering Student Specializing in DevOps ♾
 I'm a 4th-year Software Engineering student from Morocco passionate about DevOps and Cloud. I specialize in building modern CI/CD pipelines and cloud-native solutions. I enjoy automating workflows and optimizing development processes.
 
 * 🌍  I'm based in Rabat, Morocco
-* ✉️  You can contact me at [soufiane.cherkaoui01@gmail.com](mailto:soufiane.cherkaoui01@gmail.com)
 * ⚡  Currently, I'm looking for international internship opportunities in DevOps and Cloud to enhance my skills and contribute to impactful projects.
+* ✉️  You can contact me at [soufiane.cherkaoui01@gmail.com](mailto:soufiane.cherkaoui01@gmail.com) 
 
-### Skills
+## 🛠️ Skills and Technologies
 
+### 💻 Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- ![Bash/Shell Scripting](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+### ⚙️ DevOps Tools
+- ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+- ![Helm](https://img.shields.io/badge/-Helm-0F1689?logo=helm&logoColor=white)
+- ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+- ![Artifactory](https://img.shields.io/badge/-Artifactory-369535?logo=jfrog&logoColor=white)
+- ![Nexus](https://img.shields.io/badge/-Nexus-44BDBA?logo=sonatype&logoColor=white)
+
+### ☁️ Cloud Platforms
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+- ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+
+### 📚 Frameworks and Libraries
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+- ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?logo=python&logoColor=white)
+- ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+- ![GoJS](https://img.shields.io/badge/-GoJS-1D9BF0?logoColor=white)
+
+### 🛠️ Other Tools
+- ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+
 
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/https://github.com/soufianecherk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/soufianecherk/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/https://github.com/soufianecherk"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/soufianecherk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/soufianecherk's GitHub stats" /></a>
-
-<a href="http://www.github.com/https://github.com/soufianecherk"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/soufianecherk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
