@@ -7,7 +7,7 @@ Software Engineering Student Specializing in DevOps ♾
 I'm a 4th-year Software Engineering student from Morocco passionate about DevOps and Cloud. I specialize in building modern CI/CD pipelines and cloud-native solutions. I enjoy automating workflows and optimizing development processes.
 
 * 🌍  I'm based in Rabat, Morocco
-* ⚡  Currently, I'm looking for international internship opportunities in DevOps and Cloud to enhance my skills and contribute to impactful projects.
+* ⚡  I'm looking currently for international internship opportunities in DevOps and Cloud to enhance my skills and contribute to impactful projects.
 * ✉️  You can contact me at [soufiane.cherkaoui01@gmail.com](mailto:soufiane.cherkaoui01@gmail.com) 
 
 ## Skills and Technologies
