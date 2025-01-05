@@ -13,10 +13,7 @@ I'm a 4th-year Software Engineering student from Morocco passionate about DevOps
 ## 🛠️ Skills and Technologies
 
 ### 💻 Languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![Bash/Shell Scripting](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Bash/Shell Scripting](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ### ⚙️ DevOps Tools
 - ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
